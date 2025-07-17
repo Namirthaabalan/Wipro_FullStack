@@ -1,4 +1,3 @@
-import java.util.*;
 public class Miniproject1 {
     public static void main(String[] args) {
     	if (args.length == 0) {
@@ -56,6 +55,7 @@ public class Miniproject1 {
             System.out.println("Emp No.\t Emp Name \t Department \t Designation \t Salary");
             System.out.println(empNo[index] + " \t " + empName[index] + " \t\t " + department[index] + " \t\t " + desig + " \t " + salary);
         }
+        
     }
 }
 
